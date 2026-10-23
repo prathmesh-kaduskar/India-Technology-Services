@@ -98,7 +98,6 @@ Visit [`http://localhost:3000`](http://localhost:3000) in your browser.
 ## 📬 Connect & Collaborate
 
 * **Website:** [india-technology-services.vercel.app](https://india-technology-services.vercel.app/)
-* **Inquiries:** [contact@india-technology-services.com](mailto:contact@india-technology-services.com)
 
 ---
 
